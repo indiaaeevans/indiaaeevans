@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm India</h1>
-<h3 align="center">I am a front end engineer, tenacious problem-solver, passionate creative, and dedicated mentor.</h3>
+<h3 align="center">I am a senior front end engineer</h3>
 
 - 🔭 I’m currently working on [open source contributions](https://hacktoberfest.com/)
 
-- 🌱 I’m currently learning **midjourney**
+- 🌱 I’m currently learning **maps and geocoding APIs**
 
 - 📝 I write stuff on [https://indiaevans.dev](https://indiaevans.dev)
 
