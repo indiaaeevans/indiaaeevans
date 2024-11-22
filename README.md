@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm India</h1>
 <h3 align="center">I am a senior front end engineer</h3>
 
-- 🔭 I’m currently working on [open source contributions](https://hacktoberfest.com/)
+- 🔭 I’m currently working on [indie maps]([https://hacktoberfest.com/](https://indiemaps.netlify.app/))
 
-- 🌱 I’m currently learning **maps and geocoding APIs**
+- 🌱 I’m currently learning about **geocoding**, playing with [cursor](https://www.cursor.com/), and more
 
 - 📝 I write stuff on [https://indiaevans.dev](https://indiaevans.dev)
 
