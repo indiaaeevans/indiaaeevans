@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning about **geocoding**, playing with [cursor](https://www.cursor.com/), and more
 
-- 📝 I write stuff on [https://indiaevans.dev](https://indiaevans.dev)
+- 📝 I write stuff on [indiaevans.dev](https://indiaevans.dev)
 
 - 📫 How to reach me **indie.evans@proton.me**
 
-- 📄 Find my resume [here](https://www.notion.so/India-Evans-111fba61f0eb8074a71ede8b1823d0c7?pvs=74)
+- 📄 Find my resume [on notion](https://www.notion.so/India-Evans-111fba61f0eb8074a71ede8b1823d0c7?pvs=74)
 
 - ⚡ Fun fact **I like making things ✨ irl ✨ too. I sew and make jewelry in my free time**
 
