@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm India</h1>
 <h3 align="center">I am a senior front end engineer</h3>
 
-- 🔭 I’m currently working on [indie maps](https://indiemaps.netlify.app/)
+- 🔭 I’m currently working on [indie maps](https://indiemaps.indiaevans.dev)
 
 - 🌱 I’m currently learning about **geocoding**, playing with [cursor](https://www.cursor.com/), and more
 
-- 📝 I write stuff on [indiaevans.dev](https://indiaevans.dev)
+- 📝 I write stuff on [blog.indiaevans.dev](https://blog.indiaevans.dev)
 
 - 📫 How to reach me **indie.evans@proton.me**
 
