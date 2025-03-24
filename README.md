@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm India</h1>
 <h3 align="center">I am a senior front end engineer</h3>
 
-- 🔭 I’m currently working on [indie maps](https://indiemaps.indiaevans.dev)
+- 🔭 I’m currently working on [indie maps](https://indiemaps.indiaevans.dev) and fun things in [codepen](https://codepen.io/indie__)
 
 - 🌱 I’m currently learning about **geocoding**, playing with [cursor](https://www.cursor.com/), and more
 
+- 📫 Send me a message on [linkedin](https://linkedin.com/in/indiaevans)
+
+- 📄 Learn more about me [indiaevans.dev](https://indiaevans.dev)
+
 - 📝 I write stuff on [blog.indiaevans.dev](https://blog.indiaevans.dev)
-
-- 📫 How to reach me **indie.evans@proton.me**
-
-- 📄 Find my resume [on notion](https://www.notion.so/India-Evans-111fba61f0eb8074a71ede8b1823d0c7?pvs=74)
 
 - ⚡ Fun fact **I like making things ✨ irl ✨ too. I sew and make jewelry in my free time**
 
